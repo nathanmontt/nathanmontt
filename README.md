@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, sou Nathan Monteiro, estudante de Sistemas de Informação!</h1>
+  <h1>Olá, sou Nathan Monteiro! <br>Hi, I'm Nathan Monteiro!</h1>
 </div>
 
 <div align="center">
