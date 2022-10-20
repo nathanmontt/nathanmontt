@@ -1,13 +1,13 @@
-![github-banner](https://user-images.githubusercontent.com/87106760/196279992-eda22098-77fb-434f-91b3-9278f728a36d.png)
+![banner](https://user-images.githubusercontent.com/87106760/196966560-19ed008e-49c9-4014-85d1-f8a66fdcf84b.png)
 
- <h1 align="center">Olá 👋, Aqui é Nathan Monteiro</h1>
+ <h1 align="center">Olá 👋, Aqui é o Nathan Monteiro</h1>
 <h3 align="center">Um entusiasta por frontend do Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmontt&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmontt" /> </p>
 
-- 🔭 Atualmente, estou trabalhando **com projetos pessoais na busca de crescer mais meu repertório**
+- 🔭 Atualmente, estou trabalhando **com projetos pessoais na busca de crescer mais meu repertório e meus conhecimento na área**
 
-- 📫 Como contato: **contato.mont@gmail.com**
+- 📫 Como contatar: **contato.mont@gmail.com**
 
 - 📄 Sobre minhas experiências: No momento, não possuo experiência de mercado na área. Busco oportunidade para que isso mude. Possuo grande vontade de aprendizado e vontade de cumprir novos desafios
 
