@@ -3,7 +3,7 @@
  <h1 align="center">Olá 👋, Aqui é o Nathan Monteiro</h1>
 <h3 align="center">Um entusiasta por frontend do Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmontt&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmontt" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=nathanmontt&color=red&style=for-the-badge)
 
 - 🔭 Atualmente, estou trabalhando **com projetos pessoais na busca de crescer mais meu repertório e meus conhecimento na área**
 
