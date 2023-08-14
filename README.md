@@ -1,7 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/87106760/196966560-19ed008e-49c9-4014-85d1-f8a66fdcf84b.png)
 
  <h1 align="center">Olá 👋, Aqui é o Nathan Monteiro</h1>
-<h3 align="center">Um entusiasta por frontend do Brasil</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nathanmontt&color=red&style=for-the-badge)
 
