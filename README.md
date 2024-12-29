@@ -53,12 +53,11 @@
     <img src="https://komarev.com/ghpvc/?username=nathanmontt&style=for-the-badge" alt="Profile views" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>Essa seção evidencia minhas atividades diárias, mostrando os repositórios no qual estou trabalhando atualmente. Cada commit representa um progresso ou conserto em algum projeto em andamento, refletindo meu compromisso no desenvolvimento das minhas habilidade, sejam elas solo ou em projetos colaborativos!</p>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-<!--   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/> -->
-</div>
+</div> -->
 
 <h2 align="center" class="section-heading">💻 Linguagens de Programação</h2>
 <p> Aqui estão algumas lingaugens que uso para transformar problemas complexos em soluções elegantes </p>
