@@ -86,7 +86,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanmontt&theme=github_dark" alt="Nathan's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmontt&theme=merko" alt="Nathan's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com?user=nathanmontt&theme=dark&border_radius=1.5&date_format=j%20M%5B%20Y%5D" alt="Nathan's Contribution Streak"/></td>
     </tr>
  </table>
 
