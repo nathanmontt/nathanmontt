@@ -33,6 +33,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 <!-- <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
@@ -65,7 +66,7 @@
 </div>
 
 <h2 align="center" class="section-heading">👾 Modelagem 3D Modeling</h2>
-<p> Dentro dos domínios da Modelagem 3D, eu apliquei meus conhecimentos para trazer ideias a vida. Uma delas sendo meu TCC (Trabalho de Conclusão de Curso), acessável <a href="https://eventos.crp.ufv.br/jogosdigitais/?page_id=1611" target="_blank">neste link</a>, que trata-se de um jogo educativo para ajudar estudantes do Ensino Médio no ensido de Química, mais especificamente na Tabela Periódica. Desejo continuar tornando mais projetos, sejam educacionais ou não, em realidade com o passar dos anos.</p>
+<p> Dentro dos domínios da Modelagem 3D, eu apliquei meus conhecimentos para trazer ideias a vida. Uma delas sendo meu TCC (Trabalho de Conclusão de Curso), acessável <a href="https://eventos.crp.ufv.br/jogosdigitais/?page_id=1611" target="_blank">neste link</a>, que ele trata de um jogo educativo para ajudar estudantes do Ensino Médio no ensido de Química, mais especificamente no ensino da Tabela Periódica. Desejo continuar tornando mais projetos em realidade, sejam educacionais ou não, com o passar dos anos.</p>
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/> -->
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
