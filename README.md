@@ -83,7 +83,7 @@
 <div align="center">
     <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
     <p>Dê uma olhada no meu GitHub stats para ver como performo! Mergulhe e veja minha jornada digital no decorrer do tempo</p>
-    <p>OBS.: é possível navegar pela minha jornada e ver que não comecei de fato no fim de 2024, pois alguns projetos não existem mais. O motivo para dar um novo início seria a quase-desistêcia de entrar na área. Mas decidi continuar apesar das dificuldades. Então caminhe junto e vamos crescendo!</p>
+    <p>OBS.: é possível navegar pela minha jornada e ver que não comecei <strong>de fato</strong> no fim de 2024, pois há marcações no calendário de contribuição que datam muito antes, porém alguns projetos não existem mais. O motivo para dar esse novo início seria a (quase) desistêcia de entrar na área. Mas decidi continuar apesar das dificuldades. Então caminhe junto e vamos crescendo!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanmontt&theme=github_dark" alt="Nathan's GitHub Stats"/></td>   
