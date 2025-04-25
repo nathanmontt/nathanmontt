@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 Sobre Mim</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p> Sou graduando em Sistemas de Informação pela Universidade Federal de Vicosa, no campus Rio Paranaíba. Possuo interesse na área de desenvolvimento web, mais especificamente em Front-End, e iniciei meus estudos no final do ano de 2024. Sem experiência profissional, apenas pessoal, com pequenos projetos, busco oportunidades para colocar meus conhecimentos, mesmo que iniciantes, à prova. Sou tranquilo e fácil de lidar, além de procurar manter sempre o melhor clima possível no ambiente de trabalho. Possuo meus momentos de foco, mas quando se trata da equipe, é possível separar o pessoal e acompanhar o conjunto para o desenvolvimento de tarefas. </p>
+    <p> Sou graduando em <strong>Sistemas de Informação</strong> pela <strong>Universidade Federal de Viçosa, campus Rio Paranaíba</strong>. Possuo interesse na área de desenvolvimento web, mais especificamente em Front-End, e iniciei meus estudos no início do ano de 2025. Sem experiência profissional, apenas pequenos (por enquanto) projetos pessoais, busco oportunidades para colocar meus conhecimentos à provaa no mercado de trabalho. Sou uma pessoa tranquila e fácil de lidar, além de procurar manter sempre o melhor clima possível em quaisquer ambiente. Possuo meus momentos de foco, mas quando o assunto se torna a equipe, separo o pessoal e acompanho o conjunto para o desenvolvimento das tarefas. </p>
 </div>
 
 <div align="center">
@@ -83,7 +83,6 @@
 <div align="center">
     <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
     <p>Dê uma olhada no meu GitHub stats para ver como performo! Mergulhe e veja minha jornada digital no decorrer do tempo</p>
-    <p>OBS.: é possível navegar pela minha jornada e ver que não comecei <strong>de fato</strong> no fim de 2024, pois há marcações no calendário de contribuição que datam muito antes, porém alguns projetos não existem mais. O motivo para dar esse novo início seria a (quase) desistêcia de entrar na área. Mas decidi continuar apesar das dificuldades. Então caminhe junto e vamos crescendo!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanmontt&theme=github_dark" alt="Nathan's GitHub Stats"/></td>   
