@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 Sobre Mim</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p> Sou graduando em <strong>Sistemas de Informação</strong> pela <strong>Universidade Federal de Viçosa, campus Rio Paranaíba</strong>. Possuo interesse na área de desenvolvimento web, mais especificamente em Front-End, e iniciei meus estudos no início do ano de 2025. Sem experiência profissional, apenas pequenos (por enquanto) projetos pessoais, busco oportunidades para colocar meus conhecimentos à provaa no mercado de trabalho. Sou uma pessoa tranquila e fácil de lidar, além de procurar manter sempre o melhor clima possível em quaisquer ambiente. Possuo meus momentos de foco, mas quando o assunto se torna a equipe, separo o pessoal e acompanho o conjunto para o desenvolvimento das tarefas. </p>
+    <p> Sou graduando em <strong>Sistemas de Informação</strong> pela <strong>Universidade Federal de Viçosa, campus Rio Paranaíba</strong>. Possuo interesse na área de desenvolvimento web, mais especificamente em Front-End, e iniciei meus estudos no início do ano de 2025. Sem experiência profissional, apenas pequenos (por enquanto) projetos pessoais, busco oportunidades para colocar meus conhecimentos à prova no mercado de trabalho. Sou uma pessoa tranquila e fácil de lidar, além de procurar manter sempre o melhor clima possível em quaisquer ambiente. </p>
 </div>
 
 <div align="center">
@@ -55,8 +55,8 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
