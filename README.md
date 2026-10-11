@@ -1,18 +1,15 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Olá!+Me+chamo+Nathan!;E+esse+é+meu+Github!;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <h1>Bem vindo ao meu Github!</h1>
 </div>
 
 <div align="center">
     <h2>🚀 Sobre Mim</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p> Bacharel em Sistemas de Informação pela <strong>Universidade Federal de Viçosa. Possuo enorme interesse na área de análise de dados e desenvolvimento web. Iniciei meus estudos no meio do ano de 2025. Com experiências na área comercial, como BDR, SDR e LDR, possuo projetos pessoais, tanto em desenvolvimento web quanto em análise de dados (ainda no início). Busco oportunidades para colocar meus conhecimentos à prova no mercado de trabalho. </p>
+    <p> Bacharel em Sistemas de Informação pela <b>UFV</b>. Possuo experiência prática na área comercial, tanto em B2B quanto em B2C, em áreas tech, rh-tech, atacado e varejo. Possuo interesse na área de dados onde, atualmente, utilizo meus conhecimento em <b>Excel e Python</b> para analisar dados do mercado atual e apoiar a equipe operacional e comercial.</p>
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 <h2 align="center" class="section-heading">🌐 Conecte-se Comigo</h2>
-<p> Para contato, é possível me encontrar no Linkedin, ou explorar um pouco mais sobre meus projetos aqui, no Github, já que normalmente, os links de minhas redes socials aparecem em alguns deles. Sinta-se à vontade para entrar em contato para <em>collabs</em> ou apenas trocar ideias sobre tecnologia e afins! </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/nathan-monteiro/">
         <img src="https://img.shields.io/badge/Nathan_Monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,11 +18,11 @@
         <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=nathanmontt&style=for-the-badge" alt="Profile views"/>
-</div>
+</div> -->
 
 
 <h2 align="center" class="section-heading">💻 Linguagens e Frameworks</h2>
-<p> Aqui estão algumas lingaugens que uso para transformar problemas complexos em soluções elegantes, além do alicerce do meu processo de desenvolvimento: as frameworks. </p>
+<p> Algumas lingaugens que uso para transformar problemas complexos em soluções elegantes, além das frameworks. </p>
 <div align="center">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
