@@ -2,10 +2,10 @@
     <h1>Bem vindo ao meu Github!</h1>
 </div>
 
-<div align="center">
-    <h2>🚀 Sobre Mim</h2>
-    <p> Bacharel em Sistemas de Informação pela <b>UFV</b>. Possuo experiência prática na área comercial, tanto em B2B quanto em B2C, em áreas tech, rh-tech, atacado e varejo. Possuo interesse na área de dados onde, atualmente, utilizo meus conhecimento em <b>Excel e Python</b> para analisar dados do mercado atual e apoiar a equipe operacional e comercial.</p>
-</div>
+
+<h2>Sobre Mim</h2>
+<p>Bacharel em Sistemas de Informação. Possuo experiência prática na área comercial, tanto em B2B quanto em B2C, em áreas tech, rh-tech, atacado e varejo. </p>
+<p>Possuo interesse e experiência em projetos na <b>área de dados</b> onde, atualmente, utilizo meus conhecimento em ferramentas como <b>Excel e Python</b> para analisar dados do mercado atual e apoiar a equipe operacional e comercial.</p>
 
 
 <!-- <div align="center">
@@ -21,10 +21,15 @@
 </div> -->
 
 
-<h2 align="center" class="section-heading">💻 Linguagens e Frameworks</h2>
-<p> Algumas lingaugens que uso para transformar problemas complexos em soluções elegantes, além das frameworks. </p>
-<div align="center">
+<h2>Linguagens e Frameworks</h2>
+<h4>Dados:</h4>
+<div>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<h4>Desenvolvimento:</h4>
+<div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -37,7 +42,6 @@
 
 <div align="center">
     <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-    <p>Dê uma olhada no meu GitHub stats para ver como performo! Mergulhe e veja minha jornada digital no decorrer do tempo</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanmontt&theme=github_dark" alt="Nathan's GitHub Stats"/></td>   
